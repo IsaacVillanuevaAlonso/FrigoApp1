@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "896971024788",
+    "project_id": "frigoapp-4f8ed",
+    "storage_bucket": "frigoapp-4f8ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896971024788:android:5ed77fa7d8eb000e35c781",
+        "android_client_info": {
+          "package_name": "com.example.frigoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896971024788-vlv4ljk87avo5r6ssgggnugob9dg8dko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtkI_7vgqokAB9lV-l_HJAvHpx56sIUAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896971024788-vlv4ljk87avo5r6ssgggnugob9dg8dko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

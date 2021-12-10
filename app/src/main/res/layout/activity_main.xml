@@ -16,8 +16,27 @@
         <Button
             android:layout_width="1070px"
             android:layout_height="500px"
+            android:id="@+id/btn_congelador"
             android:background="@drawable/ice"
             android:text="CONGELADOR"
+            android:textSize="40dp">
+
+        </Button>
+        <Button
+            android:layout_width="1070px"
+            android:layout_height="500px"
+            android:id="@+id/btn_frigorifico"
+            android:background="@drawable/frigorifico"
+            android:text="FRIGORIFICO"
+            android:textSize="40dp">
+
+        </Button>
+        <Button
+            android:layout_width="1070px"
+            android:layout_height="500px"
+            android:id="@+id/btn_verduras"
+            android:background="@drawable/verduras"
+            android:text="VERDURAS"
             android:textSize="40dp">
 
         </Button>
